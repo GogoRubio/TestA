@@ -57,8 +57,6 @@ public class Auto {
 	    this.puertas=setpuertas;
 }
 	
-	
-	
 
 	public double descuento(double getdescuento){
 	    this.descuento=getdescuento;
